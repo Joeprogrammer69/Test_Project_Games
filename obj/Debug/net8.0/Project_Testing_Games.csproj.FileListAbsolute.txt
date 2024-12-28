@@ -1,0 +1,17 @@
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\bin\Debug\net8.0\Project_Testing_Games.exe
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\bin\Debug\net8.0\Project_Testing_Games.deps.json
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\bin\Debug\net8.0\Project_Testing_Games.runtimeconfig.json
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\bin\Debug\net8.0\Project_Testing_Games.dll
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\bin\Debug\net8.0\Project_Testing_Games.pdb
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\bin\Debug\net8.0\PlantUml.Net.dll
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.csproj.AssemblyReference.cache
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.AssemblyInfoInputs.cache
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.AssemblyInfo.cs
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.csproj.CoreCompileInputs.cache
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_.FCB4042D.Up2Date
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.dll
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\refint\Project_Testing_Games.dll
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.pdb
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.genruntimeconfig.cache
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\ref\Project_Testing_Games.dll

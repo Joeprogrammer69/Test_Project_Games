@@ -1,0 +1,30 @@
+﻿@startuml
+class DecisionModule {
+    - IGameInfoProvider _gameInfoProvider
+    + DecideDiscount(string gameId) : string
+}
+
+class IGameInfoProvider {
+    + GetGameInfo(string gameId) : GameInfo
+}
+
+class GameInfoProvider {
+    + GetGameInfo(string gameId) : GameInfo
+}
+
+class GameInfo {
+    + string GameId
+    + string Name
+    + int ReleaseYear
+    + int PopularityScore
+}
+
+class ActionHandler {
+    + HandleAction(string action, string gameName) : void
+}
+
+DecisionModule --> IGameInfoProvider : depends on
+GameInfoProvider ..|> IGameInfoProvider : implements
+DecisionModule --> GameInfo : uses
+ActionHandler --> DecisionModule : uses
+@enduml
