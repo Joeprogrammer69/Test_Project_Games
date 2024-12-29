@@ -9,6 +9,6 @@ namespace Project_Testing_Games.interfaces
 {
     public interface IGameInfo
     {
-        Game GetGameInfo(string gameId);
+        Task<Game> GetGameInfo(string gameId);
     }
 }

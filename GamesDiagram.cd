@@ -24,9 +24,10 @@
   <Class Name="Project_Testing_Games.GameInfoProvider" Collapsed="true">
     <Position X="5.75" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>GameInfoProvider.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Interface Name="Project_Testing_Games.interfaces.IGameInfo" Collapsed="true">
     <Position X="5.75" Y="2.75" Width="1.5" />

@@ -15,3 +15,4 @@ C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\
 C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.pdb
 C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.genruntimeconfig.cache
 C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\ref\Project_Testing_Games.dll
+C:\jaar4\testing-security\Project_Testing_Games\Project_Testing_Games\obj\Debug\net8.0\Project_Testing_Games.sourcelink.json

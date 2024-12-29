@@ -1,8 +1,5 @@
 ﻿using Project_Testing_Games.interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Project_Testing_Games
@@ -16,13 +13,15 @@ namespace Project_Testing_Games
             _gameInfo = gameInfoProvider;
         }
 
-        public string DecideDiscount(string gameId)
+        public async Task<string> DecideDiscount(string gameId)
         {
-            var gameInfo = _gameInfo.GetGameInfo(gameId);
+            
+            var gameInfo = await _gameInfo.GetGameInfo(gameId);
 
             if (gameInfo == null)
                 throw new ArgumentException("Game not found");
 
+            
             if (gameInfo.ReleaseYear < DateTime.Now.Year - 2 || gameInfo.Userscore > 8)
                 return "Apply Discount";
 
